@@ -17,6 +17,11 @@
 
 [any-menu](https://github.com/any-menu/any-menu/) 为 App 和插件版本所在仓库
 
+## 其他生态
+
+- [any-menu-browser-extension](https://github.com/any-menu/any-menu-browser-extension) 辅助 App 版本的浏览器扩展
+- [any-capsloc](https://github.com/any-menu/any-capslock) 一套类 `vim` (或类 `Capslock+`) 的快捷按键设计，以及其实现方案
+
 ## 插件开发模板
 
 - 纯 js 模板: [dict_exampl](https://github.com/any-menu/any-menu/blob/main/store/dict_example/)。
